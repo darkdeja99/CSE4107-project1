@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">proje1</string>
+    <string name="debtAount">Debt Amount</string>
+    <string name="intRate">Interest Rate</string>
+    <string name="fiveY">For 5 Year</string>
+    <string name="tenY">For 10 Year</string>
+    <string name="fifteenY">For 15 Year</string>
+    <string name="twentyY">For 20 Year</string>
+    <string name="twentyfiveY">For 25 Year</string>
+    <string name="thirtyY">For 30 Year</string>
+    <string name="calcualte">Calculate</string>
+    <string name="debtlLenghtText">Debt Lenght</string>
+    <string name="mountlyPaymentText">Coresponding Mountly Payment</string>
+
+</resources>
