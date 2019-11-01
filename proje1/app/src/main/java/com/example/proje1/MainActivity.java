@@ -81,11 +81,11 @@ public class MainActivity extends AppCompatActivity {
             double debt30Y = debtAmount*Math.pow((1+ınterestRate),30);
 
             show5Year(debt5Y/(5*12));
-            show5Year(debt10Y/(10*12));
-            show5Year(debt15Y/(15*12));
-            show5Year(debt20Y/(20*12));
-            show5Year(debt25Y/(25*12));
-            show5Year(debt30Y/(30*12));
+            show10Year(debt10Y/(10*12));
+            show15Year(debt15Y/(15*12));
+            show20Year(debt20Y/(20*12));
+            show25Year(debt25Y/(25*12));
+            show30Year(debt30Y/(30*12));
 
         }
     };
